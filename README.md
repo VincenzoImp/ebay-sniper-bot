@@ -24,7 +24,7 @@ The tool is particularly useful for competitive auctions where manual bidding mi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/VincenzoImp/ebay-sniper-bot.git
 cd ebay-sniper-bot
 ```
 
